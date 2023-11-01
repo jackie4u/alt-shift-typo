@@ -37,7 +37,7 @@
 		<GenerateTestArtifacts>True</GenerateTestArtifacts>
 		<AppInstallerUri>C:\temp</AppInstallerUri>
 		<HoursBetweenUpdateChecks>0</HoursBetweenUpdateChecks>
-		<AppxPackageDir>C:\Users\janva\source\personal\alt-shift-typo\AltShiftTypo\AltShiftApp\Package\Windows\</AppxPackageDir>
+		<AppxPackageDir>C:\Users\janva\source\personal\alt-shift-typo\AltShiftTypo\AltShiftApp\bin\Release\net7.0-windows10.0.19041.0\win10-x64\AppPackages</AppxPackageDir>
 		<PlatformTarget>AnyCPU</PlatformTarget>
 		<Nullable>warnings</Nullable>
 		<PackageIcon>keyboard.png</PackageIcon>
